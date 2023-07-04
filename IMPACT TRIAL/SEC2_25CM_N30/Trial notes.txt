@@ -1,0 +1,15 @@
+Han lius new sensor
+SEC 2
+Sample: N 30
+Date: 5/24/2021
+Impact Height:  cm
+
+Start: 16h  12m  40.2278s 
+Stop:  16h  17m  36.6923s
+
+Timer:  16:15:09.262 -> 22784.00
+
+
+deltaX =  36.33  mm
+deltaT =  22784.00  microseconds
+impact vel = _ m/s

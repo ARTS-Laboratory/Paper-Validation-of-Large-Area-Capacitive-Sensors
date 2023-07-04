@@ -1,0 +1,18 @@
+Profilometer scan 
+Sample: PN4
+Date: 8/12/2021
+Impact Height: 30 CM
+
+Start:  14h  56m  17.3155s
+Stop:  15h  01m  09.0697s
+
+Timer: 14:59:04.781 -> 16896.00
+
+ 
+
+
+deltaX =  36.33  mm
+deltaT =  16896.00  microseconds
+impact vel = _ m/s
+
+fix time

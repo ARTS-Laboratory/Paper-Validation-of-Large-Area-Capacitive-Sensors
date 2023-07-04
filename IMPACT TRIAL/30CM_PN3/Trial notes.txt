@@ -1,0 +1,15 @@
+Profilometer scan 
+Sample: PN3
+Date: 8/12/2021
+Impact Height: 30 CM
+
+Start:  14h  24m  46.9077s
+Stop:  14h  29m  24.3674s
+
+Timer: 14:27:08.276 -> 13888.00
+ 
+
+
+deltaX =  36.33  mm
+deltaT =  13888.00  microseconds
+impact vel = _ m/s

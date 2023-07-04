@@ -1,0 +1,17 @@
+Han lius new sensor
+SEC 24
+Sample: N7
+Date: 5/3/2021
+Impact Height: 15 cm
+
+Start:  16h  38m  16.6335s
+Stop:  16h  42m  17.7388s
+
+Timer:  16:40:25.791 -> 28928.00
+
+
+deltaX =  36.33 mm
+deltaT =  28928.00 microseconds
+impact vel = _ m/s
+
+SEC rampy

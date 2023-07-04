@@ -1,0 +1,15 @@
+Profilometer scan 
+Sample: PN1
+Date: 8/12/2021
+Impact Height: 25 CM
+
+Start:  13h  30m  20.6146s
+Stop:  13h  34m  19.7896s
+
+Timer: 13:32:27.898 -> 16000.00
+ 
+
+
+deltaX =  36.33  mm
+deltaT =  16000.00  microseconds
+impact vel = _ m/s
